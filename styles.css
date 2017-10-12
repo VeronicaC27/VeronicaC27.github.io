@@ -1,0 +1,26 @@
+.navbar-dark .navbar-brand {
+    color: #3d9250;
+  }
+.table-inverse {
+      color: #fff;
+      background-color: #77aadc;
+  }
+.jumbotron {
+  background-image: url(cover.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron img{
+  height:500px
+}
+body {
+  background-color: rgba(0, 124, 128, 0.32);
+}
+.card {
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+}
+.carousel-inner {
+  vertical-align: middle;
+}
